@@ -19,15 +19,15 @@ A comprehensive, full-stack Java Swing application designed to streamline hospit
 
 ### 1. The Main Dashboard
 Real-time analytics showing total patients, doctors, and active bookings.
-![Dashboard](Dashboard.jpg)
+![Dashboard](Dashboard.png)
 
 ### 2. Appointment Booking System
 Complex form handling with automated doctor assignment and status tracking.
-![Booking](Booking.jpg)
+![Booking](Booking.png)
 
 ### 3. Doctor Management
 Clean interface for managing doctor schedules and channeling fees.
-![Doctors](Doctors.jpg)
+![Doctors](Doctors.png)
 
 ---
 *Created by Rewatha Sumanarathne - 2025*
